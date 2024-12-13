@@ -21,7 +21,7 @@
 ### Install wanted applications and services
 
   ```bash
-  sudo apt install gnome-shell figlet lolcat neofetch -y
+  sudo apt install gnome-shell figlet lolcat neofetch snap snapd -y
   ```
   
   + Optional
