@@ -1,6 +1,6 @@
 # Things to do after installing Linux (Debian, Ubuntu distros)
 
-+ Follow steps wise
++ Follow step-wise
 
 ### 1. System updates, Application updates, Package auto cleaning
 
