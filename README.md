@@ -23,7 +23,7 @@
 ## 4. Install wanted applications and services
 
   ```bash
-  sudo apt install gnome-shell figlet lolcat neofetch snap snapd firmware-* libreoffice locate mlocate gnome-shell-extension-manager gdm3* -y
+  sudo apt install gnome-session gnome-shell figlet lolcat neofetch snap snapd firmware-* libreoffice locate mlocate gnome-shell-extension-manager gdm3* seahorse -y
   ```
   
   + Optional
