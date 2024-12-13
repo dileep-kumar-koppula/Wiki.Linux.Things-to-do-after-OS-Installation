@@ -1,6 +1,6 @@
 # Things to do after installing Linux (Debian, Ubuntu distros)
 
-## System updates, Application updates, Package auto cleaning
+### System updates, Application updates, Package auto cleaning
 
   ```bash
   sudo apt update ; sudo apt upgrade -y ; sudo apt dist-upgrade -y ; sudo apt autoremove -y ; sudo apt autoclean -y
