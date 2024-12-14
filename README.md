@@ -23,7 +23,7 @@
 ## 4. Install wanted applications and services
 
   ```bash
-  sudo apt install gnome-session gnome-shell gnome-calendar figlet lolcat neofetch snap snapd firmware-* libreoffice locate mlocate gnome-shell-extension-manager gdm3* seahorse thunderbird vlc -y
+  sudo apt install gnome-session gnome-core gnome-shell gnome-calendar gnome-browser-connector locales language-pack-en language-pack-en-base nano figlet lolcat neofetch snap snapd firmware-* libreoffice locate mlocate gnome-shell-extension-manager gdm3* seahorse thunderbird vlc linux-image-$(uname -r) nano network-manager gnome-shell vim nano wget curl net-tools ifupdown iproute2 bash-completion grub-pc -y
   ```
   
   + Optional
