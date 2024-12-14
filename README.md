@@ -38,13 +38,13 @@
   sudo apt remove --purge gnome-contacts totem* -y
   ```
 
-## 5. System updates, Application updates, Package auto cleaning
+## 6. System updates, Application updates, Package auto cleaning
 
   ```bash
   sudo apt update ; sudo apt upgrade -y ; sudo apt dist-upgrade -y ; sudo apt autoremove -y ; sudo apt autoclean -y
   ```
   
-## 6. Restart the system
+## 7. Restart the system
 
   ```bash
   sudo reboot
