@@ -30,7 +30,14 @@
       ```bash
       sudo apt install fprintd inkscape -y
       ```
+
   
+## 5. Install wanted applications and services
+
+  ```bash
+  sudo apt remove --purge gnome-contacts totem* -y
+  ```
+
 ## 5. System updates, Application updates, Package auto cleaning
 
   ```bash
