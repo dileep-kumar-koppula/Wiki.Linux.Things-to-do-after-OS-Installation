@@ -38,7 +38,7 @@
 ## 5. Install wanted applications and services
 
   ```bash
-  sudo apt remove --purge gnome-contacts totem -y
+  sudo apt remove gnome-contacts totem -y
   ```
 
 ## 6. System updates, Application updates, Package auto cleaning
