@@ -11,7 +11,7 @@
 ## 2. Remove unwanted application & it's packages
 
   ```bash
-  sudo apt remove gnome-weather gnome-contacts totem* gnome-maps gnome-mahjongg aisleriot gnome-2048 five-or-more four-in-a-row quadrapassel rhythmbox* tali swell-foop shotwell* hitori gnome-klotski gnome-chess gnome-mines gnome-music lightsoff gnome-robots gnome-nibbles gnome-sudoku gnome-tetravex gnome-taquin iagno* evolution* gdm* -y
+  sudo apt remove gnome-weather gnome-contacts gnome-klotski gnome-chess gnome-mines gnome-music lightsoff gnome-robots gnome-nibbles gnome-sudoku gnome-tetravex gnome-taquin gnome-2048 gnome-maps gnome-mahjongg totem aisleriot five-or-more four-in-a-row quadrapassel rhythmbox tali swell-foop shotwell hitori iagno evolution -y
   ```
   
 ## 3. System updates, Application updates, Package auto cleaning
