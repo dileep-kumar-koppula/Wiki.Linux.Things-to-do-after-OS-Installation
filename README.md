@@ -29,7 +29,8 @@
   + Optional
       ```bash
       sudo apt install fprintd inkscape obs-studio cloudflare-warp -y
-
+      ```
+      ```
       sudo snap install telegram-desktop ; sudo snap install spotify ; sudo snap install brave
       ```
 
