@@ -23,25 +23,25 @@
 ## 4. Install wanted applications and services
 
   ```bash
-  sudo apt install gnome-session gnome-core gnome-shell gnome-calendar gnome-browser-connector locales nano figlet lolcat neofetch snap snapd firmware-* libreoffice locate mlocate gnome-shell-extension-manager gdm3* seahorse thunderbird vlc linux-image-$(uname -r) nano network-manager gnome-shell vim nano wget curl net-tools ifupdown iproute2 bash-completion grub-pc -y
+  sudo apt install gnome-session gnome-core gnome-shell gnome-calendar gnome-browser-connector locales nano figlet lolcat neofetch snap snapd firmware-* libreoffice locate mlocate gnome-shell-extension-manager gdm3 seahorse thunderbird vlc linux-image-$(uname -r) nano network-manager gnome-shell vim nano wget curl net-tools ifupdown iproute2 bash-completion grub-pc snap snapd -y
   ```
   
   + Optional
       ```bash
-      sudo apt install fprintd inkscape -y
+      sudo apt install fprintd inkscape obs-studio -y
       ```
 
   
 ## 5. Install wanted applications and services
 
   ```bash
-  sudo apt remove --purge gnome-contacts totem* -y
+  sudo apt remove --purge gnome-contacts totem -y
   ```
 
 ## 6. System updates, Application updates, Package auto cleaning
 
   ```bash
-  sudo apt update ; sudo apt upgrade -y ; sudo apt dist-upgrade -y ; sudo apt autoremove -y ; sudo apt autoclean -y
+  sudo apt install gnome-shell gnome-session -y ; sudo apt update ; sudo apt upgrade -y ; sudo apt dist-upgrade -y ; sudo apt autoremove -y ; sudo apt autoclean -y
   ```
   
 ## 7. Restart the system
